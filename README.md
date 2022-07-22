@@ -1,7 +1,7 @@
 # KiCAD Collection
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
  
-All my KiCAD Collection include Symbol, Footprint, 3D Models, and PCB project.
+All my KiCAD Collection include Symbol, Footprint, 3D Models, and PCB project.  
 Tutorial will available later on youtube and hopefully it will coming soon.
 
 Information :
