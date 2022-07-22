@@ -6,7 +6,6 @@ Tutorial will available later on youtube and hopefully it will coming soon.
 
 Information :
 - OS   : Windows 10 64 bit  
-- IDE  : Free Pascal Lazarus v2.0.0  
 - Date : 2022-07-22  
 - Software : KiCAD v6.0.2
 
