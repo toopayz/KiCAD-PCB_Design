@@ -2,7 +2,7 @@
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
  
 All my KiCAD Collection include Symbol, Footprint, 3D Models, and PCB project.  
-Symbol, Footprint, and 3D model can change anytime without information.
+Symbol, Footprint, and 3D model can change anytime without information.  
 You can refer to "List Component & Board.xlsx" file for reference.
 
 Information :
