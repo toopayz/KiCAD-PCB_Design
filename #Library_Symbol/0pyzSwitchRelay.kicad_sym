@@ -24,7 +24,7 @@
     (symbol "Relay_4P_1_1"
       (rectangle (start -3.175 4.191) (end 3.175 -5.969)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -1.27 3.175) (end 1.27 0)
         (stroke (width 0.254) (type default))
@@ -147,7 +147,7 @@
     (symbol "Relay_5P_1_1"
       (rectangle (start -3.175 4.191) (end 3.175 -5.969)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -1.27 3.175) (end 1.27 0)
         (stroke (width 0.254) (type default))
@@ -282,7 +282,7 @@
     (symbol "Relay_6P_1_1"
       (rectangle (start -3.175 4.191) (end 3.175 -8.255)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -1.27 3.175) (end 1.27 0)
         (stroke (width 0.254) (type default))
@@ -471,7 +471,7 @@
     (symbol "Relay_8P_1_1"
       (rectangle (start -3.175 4.191) (end 3.175 -11.684)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -1.27 3.175) (end 1.27 0)
         (stroke (width 0.254) (type default))

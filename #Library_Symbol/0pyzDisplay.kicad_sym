@@ -90,7 +90,7 @@
     (symbol "ALCD_HD44780_1_1"
       (rectangle (start -16.51 12.7) (end 16.51 -11.43)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (rectangle (start -11.43 10.16) (end 11.43 3.81)
         (stroke (width 0.254) (type default))
@@ -190,7 +190,7 @@
     (symbol "GLCD_128x64_1_1"
       (rectangle (start -10.16 17.78) (end 10.16 -17.78)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (pin power_in line (at 0 20.32 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
@@ -299,7 +299,7 @@
     (symbol "OLED_128x64_1_1"
       (rectangle (start -10.16 35.56) (end 10.16 -35.56)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (pin power_in line (at -2.54 -38.1 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
@@ -466,7 +466,7 @@
     (symbol "Segmen-4Digit_1_0"
       (rectangle (start -17.78 10.16) (end 21.59 -8.128)
         (stroke (width 0.254) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (text "8" (at -11.43 1.27 0)
         (effects (font (size 9 9)))

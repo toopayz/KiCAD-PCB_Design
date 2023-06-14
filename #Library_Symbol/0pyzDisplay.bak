@@ -430,7 +430,7 @@
     (property "Value" "Segmen-4Digit" (at 12.7 11.43 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "0pyzAllBasic:Segmen-4Digit" (at 1.27 -10.16 0)
+    (property "Footprint" "0pyzDisplay:Segmen-4Digit" (at 1.27 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.kingbright.com/attachments/file/psearch/000/00/00/CC56-12CGKWA(Ver.8A).pdf" (at 0 -12.7 0)
