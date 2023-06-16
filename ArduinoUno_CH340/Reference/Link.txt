@@ -1,0 +1,7 @@
+https://docs.arduino.cc/hardware/uno-rev3
+https://docs.arduino.cc/static/c57a658e0f7afad334f6f73e82dfd83d/A000066-full-pinout.pdf
+https://docs.arduino.cc/static/76c5c143950f5c4803ea4745c11c6dd3/A000066-datasheet.pdf
+https://docs.arduino.cc/static/c1593a4c4960ff7b51d1083cb8e45812/schematics.pdf
+
+https://blog.protoneer.co.nz/arduino-uno-and-mega-dimensions/
+https://components101.com/microcontrollers/arduino-uno

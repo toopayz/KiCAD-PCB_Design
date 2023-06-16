@@ -3,6 +3,7 @@
 *.mkv
 *.exe
 *.lnk
+*.bak
 @CompRef/
 @Footprint OLD/
 @Footprint TMP/
