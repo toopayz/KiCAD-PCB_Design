@@ -11,8 +11,8 @@ Information :
 - Software : KiCAD v7.0  
 
 ## Manage Symbol Libraries  
-![How to Add Symbol path.](/KiCAD_Picture/Symbol __Set Path.bmp)
-![How to use.](/KiCAD_Picture/Symbol__Test Add.bmp)
+![xxxxxxxxxxxx.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Symbol%20__Set%20Path.bmp)
+![xxxxxxxxxxxx.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Symbol__Test%20Add.bmp)
 
 ## Manage Footprint Libraries  
 ![How to Add Footprint path.](/KiCAD_Picture/Footprint__Set Path.bmp)
