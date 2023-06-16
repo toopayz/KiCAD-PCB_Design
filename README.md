@@ -11,15 +11,15 @@ Information :
 - Software : KiCAD v7.0  
 
 ## Manage Symbol Libraries  
-![How to Add Symbol path.](/KiCAD Picture/Symbol __Set Path.bmp)
-![How to use.](/KiCAD Picture/Symbol__Test Add.bmp)
+![Set path.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Symbol%20__Set%20Path.png)
+![Test Symbol.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Symbol__Test%20Add.png)
 
 ## Manage Footprint Libraries  
-![How to Add Footprint path.](/KiCAD Picture/Footprint__Set Path.bmp)
-![How to use.](/KiCAD Picture/Footprint__Test Add.bmp)
+![Set path.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Footprint__Set%20Path.png)
+![Test Footprint.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Footprint__Test%20Add.png)
 
 ## Manage 3D Model  
-![How to Add 3D Model path.](/KiCAD Picture/3D Models__Set Path.bmp)
-![How to use.](/KiCAD Picture/3D Models__Test Add.bmp)
+![Set 3D Path.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/3D%20Models__Set%20Path.png
+![Test 3D.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/3D%20Models__Test%20Add.png)
 
 //-------------- End Of ReadMe
