@@ -19,7 +19,7 @@ Information :
 ![Test Footprint.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/Footprint__Test%20Add.png)
 
 ## Manage 3D Model  
-![Set 3D Path.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/3D%20Models__Set%20Path.png
+![Set 3D Path.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/3D%20Models__Set%20Path.png)
 ![Test 3D.](https://github.com/toopayz/KiCAD-PCB_Design/blob/main/KiCAD_Picture/3D%20Models__Test%20Add.png)
 
 //-------------- End Of ReadMe

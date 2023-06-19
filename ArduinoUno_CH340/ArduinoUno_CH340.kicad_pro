@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.75
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|195642214|67732501|604be5ad-5145-42fd-9ecc-b1ee5df16a3c|7f2f2c52-0a7c-4f71-b290-4df85eade4a9",
+        "courtyards_overlap|217542501|105407499|bc8ff463-903c-43fa-984d-9e33348df2b6|dbe3cf05-d67e-49fe-8980-9205e9736aaf",
+        "courtyards_overlap|218665001|96337669|f325511c-2c7d-48fb-8671-70056fc41568|fad3854e-ee9b-4388-8ef6-0e9bc86e738a",
+        "courtyards_overlap|222602501|104957860|361cddfd-0bd8-45bc-9215-66dd07646e05|dbe3cf05-d67e-49fe-8980-9205e9736aaf",
+        "courtyards_overlap|225967499|97127501|bba03230-2f3c-4e6d-94e2-fea10d296608|fad3854e-ee9b-4388-8ef6-0e9bc86e738a",
+        "courtyards_overlap|226736501|91392499|6e5fc09e-20f3-44ea-9e95-207e98dad1d9|b66fa016-b541-4af0-92a3-9ca987b8570a",
+        "courtyards_overlap|226736501|94192499|3a822fd2-5105-4ec0-aecd-f3e384e868c2|6e5fc09e-20f3-44ea-9e95-207e98dad1d9",
+        "courtyards_overlap|244410369|88102501|969bbb00-9d66-421b-b6ab-53d1db2dc771|e3d5e677-cb03-4ff8-9da4-32221ec0870a"
+      ],
       "meta": {
         "version": 2
       },
@@ -172,7 +181,12 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.32,
+        0.5,
+        0.75,
+        1.0,
+        1.5
       ],
       "via_dimensions": [
         {
@@ -182,7 +196,95 @@
       ],
       "zones_allow_external_fillets": false
     },
-    "layer_presets": [],
+    "layer_presets": [
+      {
+        "activeLayer": -2,
+        "layers": [
+          31,
+          32,
+          34,
+          38,
+          44
+        ],
+        "name": "Back Route",
+        "renderLayers": [
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          134,
+          135,
+          136,
+          138,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          160,
+          161,
+          165
+        ]
+      },
+      {
+        "activeLayer": -2,
+        "layers": [
+          0,
+          44
+        ],
+        "name": "Front Route",
+        "renderLayers": [
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          134,
+          135,
+          136,
+          138,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          160,
+          161,
+          165
+        ]
+      }
+    ],
     "viewports": []
   },
   "boards": [],

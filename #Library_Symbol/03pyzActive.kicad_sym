@@ -488,7 +488,7 @@
     (property "Value" "LED" (at 0.254 -2.794 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "03pyzActive:D_0805_HandSolder" (at 0 -5.08 0)
+    (property "Footprint" "03pyzActive:LED_0805_HandSolder" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)
