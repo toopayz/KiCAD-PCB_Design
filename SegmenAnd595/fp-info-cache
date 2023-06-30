@@ -1,0 +1,36 @@
+8402542546827
+05pyzDisplay
+AG12864E
+STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
+AG12864E Graphics Display 128x64 Ampire
+0
+24
+20
+05pyzDisplay
+OLED-128O064D
+128x64 OLED display
+display oled
+0
+30
+30
+05pyzDisplay
+Segmen-4Digit
+4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf
+4 digit 7 segment green LED
+0
+12
+12
+05pyzDisplay
+Segmen-CA
+4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf
+4 digit 7 segment green LED
+0
+10
+10
+05pyzDisplay
+WC1602A
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
