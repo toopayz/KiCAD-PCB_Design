@@ -1,4 +1,4 @@
-# Arduino Uno R3
+# Display 7 Segmen with 595
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
  
 Create Schematic, PCBA, and 3D Step file for 7 Segmen Display + 74HC595.  

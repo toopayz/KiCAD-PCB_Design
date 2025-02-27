@@ -1,9 +1,16 @@
-﻿*.zip
+﻿# =========================
+# Other additional
+# =========================
+
+*.zip
 *.7z
 *.mkv
+*.wav
 *.exe
 *.lnk
 *.bak
-@CompRef/
-@Footprint OLD/
-@Footprint TMP/
+
+@Ign-*/
+@Ign-*
+
+# ============================================
