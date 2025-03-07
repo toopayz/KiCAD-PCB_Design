@@ -1,14 +1,14 @@
-(footprint "TestPoint_Pad_D1.5mm"
+(footprint "Hole_3mm"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SMD pad as test Point, diameter 1.5mm")
-	(tags "test point SMD pad")
+	(descr "Mounting Hole 3mm, no annular")
+	(tags "mounting hole 3mm no annular")
 	(property "Reference" "REF**"
-		(at 0 -1.648 0)
+		(at 0 -2.921 0)
 		(layer "F.SilkS")
-		(uuid "df8ad89a-4372-48a1-959d-41a6068fbd8e")
+		(uuid "cc13d8f8-cdd8-413f-9d1c-1ba20ac58a27")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 			)
 		)
 	)
-	(property "Value" "TestPoint_Pad_D1.5mm"
-		(at 0 1.75 0)
+	(property "Value" "Hole_3mm"
+		(at 0 2.794 0)
 		(layer "F.Fab")
-		(uuid "bd63ee48-4a53-41ce-9f1d-e4ce2bbaee53")
+		(uuid "2ab88904-38da-4b6e-bbf9-97e3763bf498")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d7cc482e-8cdf-430b-a9de-cc39d9b5eb3f")
+		(uuid "75999e4f-c93d-42f2-bc32-92494f2637a9")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "aa46f986-6ead-41e4-b706-f7ac7a63791a")
+		(uuid "b57924f9-cbd5-44a2-ae1b-2e820f587e8f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -54,30 +54,30 @@
 	(attr exclude_from_pos_files exclude_from_bom)
 	(fp_circle
 		(center 0 0)
-		(end 0 0.95)
+		(end 1.7 0)
 		(stroke
-			(width 0.12)
+			(width 0.15)
 			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
-		(uuid "188606f7-41cf-4150-b22a-1b8f5885c87d")
+		(layer "Cmts.User")
+		(uuid "ca78e576-4853-43e9-94f9-d0eb377e5ecf")
 	)
 	(fp_circle
 		(center 0 0)
-		(end 1.1 0)
+		(end 2 0)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "c1a41909-dd0d-4698-8873-fe0292742945")
+		(uuid "b0947842-555a-4ef5-beb9-1b7aab9603aa")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -1.65 0)
+		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "e27ec8d6-1f94-40cd-a4aa-0963d435fbb8")
+		(uuid "a232982a-df28-4240-94c2-17968f4c8894")
 		(effects
 			(font
 				(size 1 1)
@@ -85,11 +85,12 @@
 			)
 		)
 	)
-	(pad "1" smd circle
+	(pad "" np_thru_hole circle
 		(at 0 0)
-		(size 1.5 1.5)
-		(layers "F.Cu" "F.Mask")
-		(uuid "8a03cd79-fadf-4c81-9b59-724c470e191a")
+		(size 3 3)
+		(drill 3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "bd6ffb75-90c1-4641-9825-927bb6c94de1")
 	)
 	(embedded_fonts no)
 )

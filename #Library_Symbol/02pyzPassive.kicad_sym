@@ -14,7 +14,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
-			(at 1.27 5.08 0)
+			(at 0.762 3.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 1.27 2.54 0)
+			(at 0.762 1.778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152,7 +152,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
-			(at 1.27 5.08 0)
+			(at 1.016 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -161,7 +161,7 @@
 			)
 		)
 		(property "Value" "C_Polar"
-			(at 1.27 2.54 0)
+			(at 1.016 2.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2460,6 @@
 		(on_board yes)
 		(property "Reference" "R"
 			(at -2.032 2.286 0)
-			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -937,6 +937,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "03pyzActive:LED_D3.0mm_BLUE"
@@ -1115,6 +1116,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "03pyzActive:LED_0805_HandSolder"
@@ -1292,6 +1294,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "03pyzActive:LED_D3.0mm_GREEN"
@@ -1470,6 +1473,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "03pyzActive:LED_D3.0mm_RED"
@@ -1648,6 +1652,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "03pyzActive:LED_D3.0mm_YELLOW"

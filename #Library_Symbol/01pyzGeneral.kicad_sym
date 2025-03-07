@@ -4,8 +4,12 @@
 	(generator_version "9.0")
 	(symbol "+12V"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -115,8 +119,12 @@
 	)
 	(symbol "+24V"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -226,8 +234,12 @@
 	)
 	(symbol "+3V3"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -337,8 +349,12 @@
 	)
 	(symbol "+5V"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -460,8 +476,12 @@
 	)
 	(symbol "EARTH"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -595,8 +615,12 @@
 	)
 	(symbol "GND"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -692,8 +716,12 @@
 	)
 	(symbol "GNDA"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -735,7 +763,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 0 0 0)
+			(at 0.508 0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -790,8 +818,12 @@
 	)
 	(symbol "GNDD"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -899,8 +931,12 @@
 		(embedded_fonts no)
 	)
 	(symbol "MountingHole"
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 1.016)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1185,6 +1221,91 @@
 				)
 				(fill
 					(type background)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PogoPin_75mil"
+		(pin_names
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "TP"
+			(at 1.27 2.032 0)
+			(do_not_autoplace)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "01pyzGeneral:PogoPin-75"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "PogoPin_75mil_1_1"
+			(circle
+				(center 0 0)
+				(radius 1.27)
+				(stroke
+					(width 0.635)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 3.81 0 180)
+				(length 3.81)
+				(name "TP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
 				)
 			)
 		)
@@ -1685,8 +1806,12 @@
 	)
 	(symbol "VCC"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1808,8 +1933,12 @@
 	)
 	(symbol "VIN"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1919,8 +2048,12 @@
 	)
 	(symbol "VUSB"
 		(power)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
