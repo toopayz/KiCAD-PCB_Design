@@ -1590,6 +1590,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "01pyzGeneral:TestPoint_Pad_1.5x1.5mm"
